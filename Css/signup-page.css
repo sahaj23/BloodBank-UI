@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+#side{
+    left: 10px;
+    background-color: rgb(237, 41, 57);
+    height: 100vh;
+}
+    
+    

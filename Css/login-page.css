@@ -1,0 +1,37 @@
+body{
+    background-color:  rgb(237, 41, 57);
+    
+     /* background-image: url(https://i.pinimg.com/564x/59/72/da/5972da1dccb478c7af2274c402a65eec.jpg);
+     background-repeat: no-repeat;
+     width: 1000px;*/
+} 
+#card{
+    margin-left: 15%;
+    margin-top: 10%;
+    width: 50vw;
+    height: 60vh;
+    box-shadow : 2px,2px ,whitesmoke;
+    border-radius: 0%;
+    box-shadow: 5px 10px 8px 10px  rgb(237, 41, 57);
+}
+.btn{
+    background-color:  rgb(237, 41, 57);
+    border-radius: 0%;
+    border: 1px solid whitesmoke;
+    width: 10vw;
+}
+.btn:hover{
+    border: 2px solid  rgb(237, 41, 57);
+    background-color: white;
+    color:  rgb(237, 41, 57);
+}
+a{
+    color: whitesmoke;
+}
+a:hover{
+    color:  rgb(237, 41, 57);
+}
+option:hover{
+    background-color: rgb(237, 41, 57);
+    color: whitesmoke;
+}

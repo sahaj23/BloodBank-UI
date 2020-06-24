@@ -1,0 +1,61 @@
+#nav{
+    background-color:  rgb(237, 41, 57);
+    height: 60px;
+    
+}
+a{
+    color:whitesmoke;  
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 2px;
+    margin-top: 0px;
+    font-size: larger; 
+}
+a:hover{
+    font-weight: 800px;
+    text-decoration: none;
+    color: whitesmoke;
+    text-decoration: darkorange;
+    
+}
+
+.dropdown-item{
+    font-size: small;
+
+}
+.dropdown-item:hover{
+    background-color: rgb(237, 41, 57);
+    color: whitesmoke;
+
+}
+
+#btn{
+    border: 2px solid rgb(237, 41, 57);
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 40px;
+   
+}
+.formDiv{
+    text-align: right;
+    height: 100px;
+
+}
+
+/* .btn-outline-success{
+     background-color: whitesmoke; 
+    color: rgb(237, 41, 57);
+    border: 2px solid whitesmoke;
+    background-image: url(../Images/search--v2.png);
+}
+.btn-outline-success:hover{
+    background-color: whitesmoke; 
+    color: rgb(237, 41, 57);
+    background-image: url(../Images/search--v2.png);
+    
+
+} */
